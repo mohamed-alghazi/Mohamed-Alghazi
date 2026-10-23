@@ -15,5 +15,5 @@ Computer Science Student | Data Science & Software Development Enthusiast
 [ Technical Skills ]
 
 -- Languages : Python -- Java -- SQL
--- Data Science : Pandas -- NumPy -- Scikit-Learn -- Matplotlib -- Seaborn
--- ML Models: Linear Regression -- Decision Tree -- Random Forest -- K-Nearest Neighbors (KNN)
+-- Python Libraries: Pandas -- NumPy -- Scikit-Learn -- Matplotlib -- Seaborn
+-- Machine Learing Models: Linear Regression -- Decision Tree -- Random Forest -- K-Nearest Neighbors (KNN)
