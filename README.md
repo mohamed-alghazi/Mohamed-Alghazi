@@ -1,19 +1,22 @@
-[ Mohamed Alghazi ]
+# Mohamed Alghazi
 
 Computer Science Student | Data Science & Software Development Enthusiast
--- Location : Riyadh , Saudi Arabia
--- Email : moahmedalghazi781@gmail.com
--- LinkedIn : https://www.linkedin.com/in/mohamed-alghazi-282310393
 
+- Location: Riyadh, Saudi Arabia
+- Email: moahmedalghazi781@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-alghazi-282310393
 
-[ About Me ]
+---
 
--- Focus : Data Science, Machine Learning and Software Engineering
--- Education : Computer Science Student
+## About Me
 
+- Focus: Data Science, Machine Learning and Software Engineering
+- Education: Computer Science Student
 
-[ Technical Skills ]
+---
 
--- Languages : Python -- Java -- SQL
--- Python Libraries: Pandas -- NumPy -- Scikit-Learn -- Matplotlib -- Seaborn
--- Machine Learing Models: Linear Regression -- Decision Tree -- Random Forest -- K-Nearest Neighbors (KNN)
+## Technical Skills
+
+- Languages: Python -- Java -- SQL
+- Python Libraries: Pandas -- NumPy -- Scikit-Learn -- Matplotlib -- Seaborn
+- Machine Learning Models: Linear Regression -- Decision Tree -- Random Forest -- K-Nearest Neighbors (KNN)
