@@ -9,7 +9,6 @@ About Me
 
 Technical Skills
 - Languages - Python Java SQL
-- 
 - Data Science - Pandas NumPy Scikit-Learn Matplotlib Seaborn
 - Concepts - Object-Oriented Programming Data Structures Algorithms Data Preprocessing
 - Tools - Git GitHub Jupyter Notebook Visual Studio Code
