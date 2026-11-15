@@ -26,4 +26,4 @@ I enjoy exploring data, solving problems, and building practical applications. T
 Computer Science
 
 Imam Mohammad Ibn Saud University
-3:42 PM
+
